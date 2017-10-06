@@ -9,11 +9,6 @@ public class SyncService {
 
     public boolean sync(Database src, Database dest){
 
-
-
-
-
-
         return false;
     }
 
